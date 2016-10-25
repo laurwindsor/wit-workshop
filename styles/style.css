@@ -1,6 +1,6 @@
 body {
 	background-color: yellow;
-	font-family: 'Quicksand', sans-serif;
+	font-family: sans-serif;
 	color: black;
 }
 
@@ -13,8 +13,12 @@ p {
 	font-size: 20px;
 }
 
-.portrait {
-	width: 30%;
-	float:right;
+.plain-list {
+    list-style: none;
+}
+
+#Profile-Image {
+	width: 500px;
+	float: right;
 	padding-left: 10px;
 }
