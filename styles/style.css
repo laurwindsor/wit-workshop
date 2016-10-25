@@ -4,6 +4,12 @@ body {
 	color: black;
 }
 
+title {
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	font-size: 44px;
+}
+
 h1 {
 	text-align: center;
 	font-size: 36px;
@@ -18,7 +24,12 @@ p {
 }
 
 #Profile-Image {
-	width: 500px;
+	width: 300px;
 	float: right;
-	padding-left: 10px;
+	padding-left: 100px;
+}
+
+a:hover {
+	color: yellow;
+	background-color: grey;
 }
